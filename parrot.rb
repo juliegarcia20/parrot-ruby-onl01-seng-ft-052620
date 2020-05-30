@@ -5,6 +5,9 @@ def parrot
  puts phrase
 end 
   
+  def parrot
+    return phrase
+  end 
 
 
   
